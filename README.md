@@ -1,2 +1,1 @@
-# KAM-Project-Library
-KAM-Project-Library/record
+java上传图片到minio/oss/local本地
